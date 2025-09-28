@@ -1,0 +1,1 @@
+API endpoints: /cart - добавить в корзину.
